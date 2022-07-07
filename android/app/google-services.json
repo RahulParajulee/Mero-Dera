@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449023451080",
+    "project_id": "merodera-461d4",
+    "storage_bucket": "merodera-461d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449023451080:android:175a28ef2ad7ed69982afd",
+        "android_client_info": {
+          "package_name": "com.example.merodera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449023451080-vae6nqmc5c6t5s7cs5m46s134mhlnrel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merodera",
+            "certificate_hash": "cf38a9619debf742fa3b86ee6bf3471da8e4cb6d"
+          }
+        },
+        {
+          "client_id": "449023451080-bfi60elq4daeptf128alj605mdj4chg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eLA8jMUK3cYk96xs90yOUCK6nKXGa2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449023451080-bfi60elq4daeptf128alj605mdj4chg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
